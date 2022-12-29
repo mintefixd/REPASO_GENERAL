@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/modelo-incons%C3%BAtil-con-los-sobres-del-correo-fondo-del-vector-para-la-entrega-postal-93224452.jpg");
+}
+
+.container{
+    background-color: #ffffff;
+    margin: 120px auto 0 auto;
+    width: 600px;
+    height: 800px;
+    padding: 30px;
+    border-radius: 7px;}
+
+h1 {
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+
+button {
+    display: inline-block;
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
